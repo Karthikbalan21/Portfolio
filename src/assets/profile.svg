@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Profile portrait placeholder</title>
+  <desc id="desc">A modern illustrated developer portrait for a portfolio hero section.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#dbeafe"/>
+      <stop offset="0.55" stop-color="#ccfbf1"/>
+      <stop offset="1" stop-color="#fce7f3"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <circle cx="400" cy="320" r="150" fill="#f8c8a8"/>
+  <path d="M250 309c16-122 99-186 213-160 77 17 113 67 105 156-56-28-117-33-190-17-48 10-88 17-128 21z" fill="#172033"/>
+  <path d="M258 350c-25-38-12-79 24-86 31 2 45 26 38 67-10 53-38 58-62 19z" fill="#f8c8a8"/>
+  <path d="M546 350c25-38 12-79-24-86-31 2-45 26-38 67 10 53 38 58 62 19z" fill="#f8c8a8"/>
+  <circle cx="344" cy="326" r="12" fill="#172033"/>
+  <circle cx="455" cy="326" r="12" fill="#172033"/>
+  <path d="M360 405c30 27 72 27 101 0" fill="none" stroke="#9f4f3a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M172 724c34-150 124-231 228-231s194 81 228 231H172z" fill="url(#shirt)"/>
+  <path d="M305 508l95 92 95-92" fill="none" stroke="#fff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+  <rect x="210" y="613" width="380" height="86" rx="16" fill="#111827" opacity=".92"/>
+  <circle cx="248" cy="656" r="9" fill="#fb7185"/>
+  <circle cx="279" cy="656" r="9" fill="#facc15"/>
+  <circle cx="310" cy="656" r="9" fill="#34d399"/>
+  <path d="M362 657h170" stroke="#93c5fd" stroke-width="16" stroke-linecap="round"/>
+</svg>
